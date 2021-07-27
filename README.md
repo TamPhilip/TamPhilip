@@ -2,7 +2,6 @@
 
 <p> My name is Philip Tam. Philip Tam is a last year Computer Science student at McGill University. :^) </p>
 
-- 💵 Working at a Bank?
 - 💻 Developing Orbook
 - 🕸 Webmaster for JSA
 - 🧳 Manager of Frying Pan
