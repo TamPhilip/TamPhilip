@@ -4,7 +4,7 @@
 
 - 📚 Currently studying at McGill University!
 
-<h2 align="center">Current Knowledge</h2>
+<h2 align="center"> Stacks </h2>
 
 <h3>Currently Doing
 <br>
