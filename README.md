@@ -1,8 +1,11 @@
 <h1 align="center"><b> Philip Tam </b></h1>
 
-<p> My name is Philip Tam. Philip Tam is a last year Computer Science student. :^) </p>
+<p> My name is Philip Tam. Philip Tam is a last year Computer Science student at McGill University. :^) </p>
 
-- 📚 Currently studying at McGill University!
+- 💵 Working at a Bank?
+- 💻 Developing Orbook
+- 🕸 Webmaster for JSA
+- 🧳 Manager of Frying Pan
 
 <h2 align="center"> Currently Working On </h2>
 <br>
