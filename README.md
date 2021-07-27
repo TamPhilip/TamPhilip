@@ -20,7 +20,8 @@
    <div style="display: flex; align-items: center; justify-content: center;">
       <p> Orbook </p>
       <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;            
+      <img src="https://img.shields.io/badge/-React-Native-black?style=flat-square&amp;logo=React" alt="React-Native">&nbsp;&nbsp;&nbsp;&nbsp;
    </div>
 </div>
 
