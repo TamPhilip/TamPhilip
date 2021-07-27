@@ -1,6 +1,6 @@
 <h1 align="center"><b> Philip Tam </b></h1>
 
-<p> My name is Philip Tam. Philip Tam is a last year Computer Science student at McGill University. :^) </p>
+<p> My name is Philip Tam. I am a last year Computer Science student at McGill University. :^) </p>
 
 - 💻 Developing Orbook
 - 🕸 Webmaster for JSA
