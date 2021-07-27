@@ -4,9 +4,7 @@
 
 - 📚 Currently studying at McGill University!
 
-<h2 align="center"> Stacks </h2>
-
-<h3>Currently Working On
+<h2 align="center"> Currently Working On </h2>
 <br>
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -25,7 +23,8 @@
       <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
    </div>
 </div>
-<h3> Have Used </h3>
+
+<h2 align="center"> Have Used </h2>
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
