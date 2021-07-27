@@ -6,7 +6,6 @@
 
 <h2 align="center"> Currently Working On </h2>
 <br>
-<br>
 <div style="display: flex; align-items: center; justify-content: center;">
    <div style="display: flex; align-items: center; justify-content: center;">
       <p> JSA - Website </p>
@@ -15,7 +14,6 @@
       <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&amp;logo=Javascript" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
    </div>
-   <br>
    <br>
    <div style="display: flex; align-items: center; justify-content: center;">
       <p> Orbook </p>
