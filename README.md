@@ -33,14 +33,19 @@
 
 <h2 align="center"> Have Used </h2>
 <div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&amp;logo=logo=vuedotjs" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&amp;logo=ruby&logoColor=red" alt="Ruby">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Rails-black?style=flat-square&amp;logo=ruby-on-rails&logoColor=red" alt="Ruby On Rails">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&amp;logo=swift" alt="Swift">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=java" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CSharp-black?style=flat-square&amp;logo=c-sharp&logoColor=purple" alt="C#">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-ASP.NET-black?style=flat-square&amp;logo=.net" alt="ASP.NET">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-C++-black?style=flat-square&amp;logo=c%2B%2B&logoColor=purple" alt="C++">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&amp;logo=c%2B%2B" alt="C++">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&amp;logo=fastapi" alt="FastAPI">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Flask-black?style=flat-square&amp;logo=flask" alt="Flask">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Keras-black?style=flat-square&amp;logo=Keras" alt="Keras">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-scikit--learn-black?style=flat-square&amp;logo=scikit-learn" alt="scikit-learn">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&amp;logo=dart&logoColor=blue" alt="Dart">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter&logoColor=blue" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
