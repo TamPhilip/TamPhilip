@@ -2,9 +2,9 @@
 
 <p> My name is Philip Tam. I am a last year Computer Science student at McGill University. :^) </p>
 
-- 💻  Developing Orbook
-- 🕸  Webmaster for JSA McGill
-- 🧳  Manager of Frying Pan
+- 💻  -  Developing Orbook
+- 🕸  -  Webmaster for JSA McGill
+- 🧳  -  Manager of Frying Pan
 
 <h2 align="center"> Currently Working On </h2>
 <br>
@@ -24,7 +24,7 @@
    <br>
    <div style="display: flex; align-items: center; justify-content: center;">
       <p> Orbook - Private </p>
-      <img src="https://img.shields.io/badge/-React--Native-black?style=flat-square&amp;logo=React" alt="React-Native">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React-Native">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&amp;logo=Typescript" alt="TypeScript">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
