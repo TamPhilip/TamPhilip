@@ -34,7 +34,7 @@
 <h2 align="center"> Have Used </h2>
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&amp;logo=ruby" alt="Ruby">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Ruby--On--Rails-black?style=flat-square&amp;logo=rails" alt="Ruby On Rails">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=red" alt="Ruby On Rails">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&amp;logo=swift" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&amp;logo=dart" alt="Dart">&nbsp;&nbsp;&nbsp;&nbsp;
