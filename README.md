@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&amp;logo=ruby&logoColor=red" alt="Ruby">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Rails-black?style=flat-square&amp;logo=ruby-on-rails&logoColor=red" alt="Ruby On Rails">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&amp;logo=swift;" alt="Swift">&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-black?style=flat-square&amp;logo=ios;" alt="Swift">&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/--black?style=flat-square&amp;logo=ios;" alt="iOS">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&amp;logo=java" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-CSharp-black?style=flat-square&amp;logo=c-sharp&logoColor=purple" alt="C#">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-ASP.NET-black?style=flat-square&amp;logo=.net" alt="ASP.NET">&nbsp;&nbsp;&nbsp;&nbsp;
