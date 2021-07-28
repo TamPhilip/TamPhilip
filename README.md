@@ -2,9 +2,9 @@
 
 <p> My name is Philip Tam. I am a last year Computer Science student at McGill University. :^) </p>
 
-- 💻  - Developing Orbook
-- 🕸  - Webmaster for JSA McGill
-- 🧳  - Manager of Frying Pan
+- <pre> 💻   Developing Orbook </pre>
+- <pre> 🕸   Webmaster for JSA McGill </pre>
+- <pre> 🧳   Manager of Frying Pan </pre>
 
 <h2 align="center"> Currently Working On </h2>
 <br>
