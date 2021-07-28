@@ -24,8 +24,8 @@
    <br>
    <div style="display: flex; align-items: center; justify-content: center;">
       <p> Orbook - Private </p>
-      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React-Native">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&amp;logo=Typescript" alt="TypeScript">&nbsp;&nbsp;&nbsp;&nbsp;
+     ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;&nbsp;&nbsp;
+      ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
    </div>
