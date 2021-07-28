@@ -33,7 +33,7 @@
 
 <h2 align="center"> Have Used </h2>
 <div style="display: flex; align-items: center; justify-content: center;">
-<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&amp;logo=logo=vuedotjs" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&amp;logo=vuedotjs" alt="Vue">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Ruby-black?style=flat-square&amp;logo=ruby&logoColor=red" alt="Ruby">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Rails-black?style=flat-square&amp;logo=ruby-on-rails&logoColor=red" alt="Ruby On Rails">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&amp;logo=swift" alt="Swift">&nbsp;&nbsp;&nbsp;&nbsp;
