@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&amp;logo=dart&logoColor=blue" alt="Dart">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter&logoColor=blue" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&amp;logo=postgresql" alt="Postgres">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2 align="center">My Contributions</h2>
