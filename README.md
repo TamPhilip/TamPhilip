@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/-Rails-black?style=flat-square&amp;logo=ruby-on-rails&logoColor=red" alt="Ruby On Rails">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&amp;logo=swift" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&amp;logo=dart" alt="Dart">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&amp;logo=dart&logoColor=blue" alt="Dart">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter&logoColor=blue" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
