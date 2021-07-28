@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://www.linkedin.com/in/philiptamcode/">
-  <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&amp;logo=LinkedIn" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-philiptamcode-black?style=flat-square&amp;logo=LinkedIn" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 </div>
 
