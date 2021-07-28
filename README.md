@@ -10,7 +10,8 @@
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
    <div style="display: flex; align-items: center; justify-content: center;">
-      <a href="https://github.com/JSA-McGill/Landing-App"> JSA - Website </a>
+      <p> <a href="https://github.com/JSA-McGill/Landing-App"> JSA - Website </a></p>
+
       <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
