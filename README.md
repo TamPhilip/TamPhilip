@@ -47,19 +47,13 @@
 </p>
 
 <h2 align="center">Connect with me in</h2>
-<!-- <div align="center">
-<a href="https://github.com/hasib-rashid">
+<div align="center">
+<a href="https://github.com/TamPhilip">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://hasibrashid.tk">
-  <img src="https://img.shields.io/badge/-Website-black?style=flat-square&amp;logo=circle" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="https://dev.to/hasibrashid">
-  <img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&amp;logo=dev.to" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="https://open.spotify.com/user/2gm5rrycgg6pu4rdxq3tcc9lx">
-  <img src="https://img.shields.io/badge/-Spotify-black?style=flat-square&amp;logo=spotify" alt="Spotify">&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="https://github.com/hasib-rashid">
-  <img src="https://img.shields.io/badge/-Stack Overflow-black?style=flat-square&amp;logo=stack-overflow" alt="Stack Overflow">&nbsp;&nbsp;&nbsp;&nbsp;
-</a> -->
+<a href="https://www.linkedin.com/in/philiptamcode/">
+  <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&amp;logo=LinkedIn" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
 </div>
 
 <!-- More to come! -->
