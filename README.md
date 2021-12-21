@@ -1,6 +1,18 @@
 <h1 align="center"><b> Philip Tam </b></h1>
 
-<p> My name is Philip Tam. I am a last year Computer Science student at McGill University. :^) </p>
+<p> My name is Philip Tam. I am a last year Computer Science student at McGill University!</p>
+
+Work Experience:
+
+- Incoming Software Developer Intern at Index Exchange [Montreal, Winter 2021]
+- Developer Intern at Royal Bank of Canada [Toronto. Summer 2021]
+- Data Science Intern at Royal Bank of Canada [Toronto. Summer 2020]
+- Software Developer Intern at GSoft [Montreal, Winter 2020]
+- Software Developer Intern at Clearly IP [Montreal, Summer 2019]
+- Software Developer at Quinditech [Montreal, 2018]
+
+
+Currently Working On:
 
 - 💻  &nbsp; Developing Orbook 
 - 🕸  &nbsp; Webmaster for JSA McGill 
@@ -53,20 +65,6 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&amp;logo=postgresql" alt="Postgres">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-<h2 align="center">My Contributions</h2>
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=TamPhilip&show_icons=true&theme=tokyonight"> </td>
-       <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamPhilip&langs_count=10&theme=tokyonight&layout=compact&hide=html,dockerfile,scss,sass,css,coffeescript,bash"> </td>
-     </tr>
-   </table>
-</p>
 
 <h2 align="center">Connect with me in</h2>
 <div align="center">
