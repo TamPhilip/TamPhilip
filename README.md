@@ -27,9 +27,9 @@ Currently Working On:
             Hack4Pan  
          </a>
       </p>
-      <img src="https://img.shields.io/badge/-NextJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-ReactJS-?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-NextJS-black?style=flat-square&amp;logo=Next" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Discord API-black?style=flat-square&amp;logo=Discord" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-ReactJS-?style=flat-square&amp;logo=React" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
    </div>
