@@ -21,6 +21,19 @@ Currently Working On:
 <h2 align="center"> Currently Working On </h2>
 <br>
 <div style="display: flex; align-items: center; justify-content: center;">
+      <div style="display: flex; align-items: center; justify-content: center;">
+      <p> 
+         <a href="https://github.com/CodeFryingPan/Hack4Pan"> 
+            Hack4Pan  
+         </a>
+      </p>
+      <img src="https://img.shields.io/badge/-NextJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-ReactJS-?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
+   </div>
+   <br>
    <div style="display: flex; align-items: center; justify-content: center;">
       <p> 
          <a href="https://github.com/JSA-McGill/Landing-App"> 
