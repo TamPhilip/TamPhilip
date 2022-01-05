@@ -14,7 +14,7 @@ Work Experience:
 
 Currently Working On:
 
-- 💻  &nbsp; Creating Hack4Pan - ![Website](https://hack4-pan.vercel.app/) & Bot  
+- 💻  &nbsp; Creating Hack4Pan - [Website](https://hack4-pan.vercel.app/) & Bot  
 - 💻  &nbsp; Developing Orbook 
 - 🕸  &nbsp; Webmaster for JSA McGill 
 - 🧳  &nbsp; Manager of Frying Pan 
