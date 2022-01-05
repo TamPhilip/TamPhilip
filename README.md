@@ -27,7 +27,7 @@ Currently Working On:
             Hack4Pan  
          </a>
       </p>
-      ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" &nbsp;&nbsp;&nbsp;&nbsp;/>
       <img src="https://img.shields.io/badge/-Discord API-black?style=flat-square&amp;logo=Discord" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-ReactJS-?style=flat-square&amp;logo=React" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=Javascript" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
