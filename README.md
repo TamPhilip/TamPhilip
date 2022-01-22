@@ -4,7 +4,7 @@
 
 Work Experience:
 
-- Incoming Software Developer Intern at Index Exchange [Montreal, Winter 2021]
+- Software Engineer Intern at Index Exchange [Montreal, Winter 2021]
 - Developer Intern at Royal Bank of Canada [Toronto. Summer 2021]
 - Data Science Intern at Royal Bank of Canada [Toronto. Summer 2020]
 - Software Developer Intern at GSoft [Montreal, Winter 2020]
