@@ -3,7 +3,7 @@
 <p> My name is Philip Tam. I am a last year Computer Science student at McGill University!</p>
 
 Work Experience:
-- Software Developer at Google [Montreal, Incoming August]
+- Software Developer at Google [Montreal, Current]
 - Software Engineer Intern at Index Exchange [Montreal, Winter 2021]
 - Developer Intern at Royal Bank of Canada [Toronto. Summer 2021]
 - Data Science Intern at Royal Bank of Canada [Toronto. Summer 2020]
