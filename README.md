@@ -13,11 +13,7 @@ Work Experience:
 
 
 Currently Working On:
-
-- 💻  &nbsp; Creating Hack4Pan - [Website](https://www.hack4pan.com/) & Bot  
-- 💻  &nbsp; Developing Orbook 
 - 💻  &nbsp; Super Secret Project
-- 🧳  &nbsp; Manager of Frying Pan 
 
 <h2 align="center"> Currently Working On </h2>
 <br>
